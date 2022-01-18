@@ -1,3 +1,6 @@
+-------------
+A nord color version of [theniceboy/eleline.vim](https://github.com/theniceboy/eleline.vim)
+
 # eleline.vim
 
 Another **ele**gant status**line** for vim, extracted from [space-vim](https://github.com/liuchengxu/space-vim).
