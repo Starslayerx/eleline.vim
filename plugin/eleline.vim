@@ -1,7 +1,7 @@
 " ============================================================================
 " Filename: eleline.vim
-" Author: Liu-Cheng Xu
-" Fork: theniceboy
+" Author: Liu-Cheng Xu theniceboy
+" Fork: Starslayerx
 " URL: https://github.com/liuchengxu/eleline.vim
 " License: MIT License
 " =============================================================================
